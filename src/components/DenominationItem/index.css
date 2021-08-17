@@ -1,0 +1,36 @@
+.list-values {
+  list-style-type: none;
+  margin: 15px;
+}
+.button {
+  color: #c7d2fe;
+  background-color: transparent;
+  border: 2px solid #c7d2fe;
+  font-family: 'Roboto';
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.withdraw {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 16px;
+}
+
+.choose-sum {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.denominations-list {
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
